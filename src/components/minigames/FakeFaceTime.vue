@@ -7,7 +7,7 @@
 
     <div class="facetime-content">
       <div class="video-placeholder">
-        <img src="/assets/img/kefu.png" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.7" />
+        <img src="assets/img/kefu.png" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.7" />
         <div class="agent-badge">工号：9527 (微信支付安全中心)</div>
       </div>
 

@@ -1,39 +1,39 @@
 // 1. 资源路径统一配置 (以后换图只在这里换)
 const ASSETS = {
   AVATARS: {
-    me: "/assets/img/me.png",
-    uncle: "/assets/img/two uncle.png",
-    aunt: "/assets/img/aunt.png",
-    one_uncle: "/assets/img/one uncle.png",
-    three_cousin: "/assets/img/three_cousin.png",
-    four_cousin: "/assets/img/four_cousin.png",
-    mother: "/assets/img/mother.png",
-    father: "/assets/img/father.png",
-    one_cousin: "/assets/img/one cousin.png",
+    me: "assets/img/me.png",
+    uncle: "assets/img/two uncle.png",
+    aunt: "assets/img/aunt.png",
+    one_uncle: "assets/img/one uncle.png",
+    three_cousin: "assets/img/three_cousin.png",
+    four_cousin: "assets/img/four_cousin.png",
+    mother: "assets/img/mother.png",
+    father: "assets/img/father.png",
+    one_cousin: "assets/img/one cousin.png",
   },
   IMAGES: {
-    monster: "/assets/img/monster.jpg", // 二大爷发的巨兽图片
-    signal_moster: "/assets/img/signalmoster.jpg",
+    monster: "assets/img/monster.jpg", // 二大爷发的巨兽图片
+    signal_moster: "assets/img/signalmoster.jpg",
   },
   ICONS: {
-    battery: "/assets/img/battery.svg",
-    wifi: "/assets/img/wifi.svg",
-    signal: "/assets/img/signal.svg",
-    back: "/assets/img/back.svg",
-    more: "/assets/img/more.svg",
-    voice_icon: "/assets/img/voice-icon.svg",
-    emoji_icon: "/assets/img/emoji-icon.svg",
-    plus_icon: "/assets/img/plus-icon.svg",
+    battery: "assets/img/battery.svg",
+    wifi: "assets/img/wifi.svg",
+    signal: "assets/img/signal.svg",
+    back: "assets/img/back.svg",
+    more: "assets/img/more.svg",
+    voice_icon: "assets/img/voice-icon.svg",
+    emoji_icon: "assets/img/emoji-icon.svg",
+    plus_icon: "assets/img/plus-icon.svg",
   },
   AUDIO: {
-    message: "/assets/audio/message.mp3", // 替换成你的微信提示音文件名
-    bgm: "/assets/audio/bgm.mp3", // 替换成你的背景音乐文件名
-    click: "/assets/audio/click.mp3", // 按钮点击音效
-    confetti: "/assets/audio/confetti.mp3", //礼花音效
+    message: "assets/audio/message.mp3", // 替换成你的微信提示音文件名
+    bgm: "assets/audio/bgm.mp3", // 替换成你的背景音乐文件名
+    click: "assets/audio/click.mp3", // 按钮点击音效
+    confetti: "assets/audio/confetti.mp3", //礼花音效
   },
   OTHERS: {
-    kefu: "/assets/img/kefu.png",
-    yurongfu: "/assets/img/yurongfu.png",
+    kefu: "assets/img/kefu.png",
+    yurongfu: "assets/img/yurongfu.png",
   },
 };
 
@@ -43,7 +43,7 @@ const GAME_STORY = {
   openingimage: [
     {
       sender: "二大爷",
-      image: "/assets/img/monster.jpg",
+      image: "assets/img/monster.jpg",
       avatar: "uncle",
       delay: 0,
     },

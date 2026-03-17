@@ -25,7 +25,7 @@
           <span v-else v-html="message.text"></span>
         </div>
         <div class="avatar">
-          <img :src="message.avatar || '/assets/img/me.png'" />
+          <img :src="message.avatar || 'assets/img/me.png'" />
         </div>
       </template>
 
