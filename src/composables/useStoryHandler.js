@@ -63,7 +63,7 @@ export function useStoryHandler() {
     } else if (val === "L1_B") {
       store.pushMessage({
         sender: "我",
-        image: "assets/img/signal_monster.jpg",
+        image: "assets/img/signalmonster.png",
         type: "image",
         isMe: true,
       });

@@ -18,7 +18,7 @@
     </div>
 
     <div class="taobao-content">
-      <img src="assets/img/yurongfu.png" style="width: 100%; display: block" />
+      <img src="/assets/img/yurongfu.png" style="width: 100%; display: block" />
 
       <div
         class="countdown-box"
